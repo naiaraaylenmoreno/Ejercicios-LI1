@@ -1,0 +1,48 @@
+<menu>
+    <entradas>
+        <entrada id="01"> 
+            <nombre> empanada de carne </nombre>
+            <precio> 1500 </precio>
+            <descripcion> empanada casera de carne cortada a cuchillo </descripcion>
+        </entrada>
+        <entrada id="02">
+            <nombre> rabas </nombre>
+            <precio> 2500 </precio>
+            <descripcion> fuente lleno de rabas para compartir </descripcion>
+        </entrada>
+    </entradas>
+    <platos_principales>
+        <plato id="01">
+            <nombre> espaguetis con crema verde </nombre>
+            <precio> 15000 </precio>
+            <descripcion> espaguetis sin gluten con crema deslactosada y brocoli </descripcion>
+        </plato>
+        <plato id="02">
+            <nombre> risotto de mariscos </nombre>
+            <precio> 17500 </precio>
+            <descripcion> arroz con tentaculos, camarones y mejillones </descripcion>
+        </plato>
+    </platos_principales>
+    <postres>
+        <postre id="01">
+            <nombre> bocha de helado </nombre>
+            <precio> 5000 </precio>
+            <descripcion> copa con helado de dulce de leche granizado, frutilla a la reina o limon </descripcion>
+        </postre>
+        <postre id="02">
+            <nombre> bizcocho vegetariano </nombre>
+            <precio> 6500 </precio>
+            <descripcion> bizcocho con relleno de yogur de soja, arandanos y castañas </descripcion>
+        </postre>
+    </postres>
+    <bebidas>
+        <bebida id="01">
+            <nombre> vino tinto </nombre>
+            <precio> 9000 </precio>
+        </bebida>
+        <bebida id="02">
+            <nombre> agua mineral </nombre>
+            <precio> 4000 </precio>
+        </bebida>
+    </bebidas>
+</menu>

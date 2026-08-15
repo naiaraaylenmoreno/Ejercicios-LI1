@@ -1,0 +1,28 @@
+<catalogo tienda="Hecho a mano">
+    <categorias>
+        <decoracion>
+            <producto id="01">
+                <nombre> posavasos </nombre>
+                <precio> 8000 </precio>
+                <descripcion> set de 4 posavasos tejidos con hilo de algodon, modelos personalizados </descripcion>
+            </producto>
+            <producto id="02">
+                <nombre> espejo </nombre>
+                <precio> 10000 </precio>
+                <descripcion> espejo con marco de flores tejidas bicolor </descripcion>
+            </producto>
+            <producto id="03">
+                <nombre> flores </nombre>
+                <precio> 6000 </precio>
+                <descripcion> flores de limpiapipas personalizado </descripcion>
+            </producto>
+        </decoracion>
+        <accesorios>
+            <producto id="04">
+                <nombre> llaveros </nombre>
+                <precio> 4000 </precio>
+                <descripcion> llaveros de flores, animales y corazones, se pude personalizar </descripcion>
+            </producto>
+        </accesorios>
+    </categorias>
+</catalogo>

@@ -1,0 +1,12 @@
+{
+    "nombre": "naiara moreno",
+    "edad": 23,
+    "carrera": "licenciatura en informatica",
+    "lista de cursos": [
+        {
+            "curso 1": "matematica 1",
+            "curso 2": "ingles",
+            "curso 3": "programacion"
+        }
+    ]
+}

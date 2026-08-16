@@ -1,0 +1,45 @@
+{
+    "fecha": "01/04/2026",
+    "turnos":[
+        {
+            "numero": "01",
+            "hora": "12:00",
+            "estado": "pendiente",
+            "paciente": {
+                "nombre": "Naiara Moreno",
+                "dni": "44.643.021"
+            },
+            "medico": {
+                "nombre": "Dra. Cecilia",
+                "especialidad": "Traumatologia"
+            },
+            "observaciones": "la paciente debe presentarse 15 minutos antes"
+        },
+        {
+            "numero": "02",
+            "hora": "13:30",
+            "estado": "aprobado",
+            "paciente": {
+                "nombre": "Marina del Valle Castro",
+                "dni": "39.878.908"
+            },
+            "medico": {
+                "nombre": "Dr. Eduardo",
+                "especialidad": "Gastroenterocolitis"
+            }
+        },
+        {
+            "numero": "03",
+            "hora": "19:00",
+            "estado": "cancelado",
+            "paciente": {
+                "nombre": "Ian Langlais",
+                "dni": "59.876.087"
+            },
+            "medico": {
+                "nombre": "Dr. Alberto",
+                "especialidad": "Pediatria"
+            }
+        }
+    ]
+}

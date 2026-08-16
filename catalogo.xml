@@ -1,0 +1,22 @@
+
+<catalogo version="1.0" fecha="13/08/2026" empresa="Guikemar">
+
+    <destino id="001">
+        <nombre> Buenos Aires </nombre>
+        <pais> Argentina </pais>
+        <precio_USD> 200 </precio_USD>
+    </destino>
+
+    <destino id="002">
+        <nombre> Tokio </nombre>
+        <pais> Japon </pais>
+        <precio_USD> 1.000 </precio_USD>
+    </destino>
+
+    <destino id="003">
+        <nombre> Lima </nombre>
+        <pais> Peru </pais>
+        <precio_USD> 500 </precio_USD>
+    </destino>
+
+</catalogo>
